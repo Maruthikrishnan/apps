@@ -1,4 +1,5 @@
 {
   "version":"2",
-  "appurl":"https://play.google.com/store/apps/details?id=com.scube.app.photoresize"
+  "appurl":"https://play.google.com/store/apps/details?id=com.scube.app.photoresize",
+  "block": false
 }
